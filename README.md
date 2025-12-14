@@ -23,5 +23,5 @@ How to Transfer Settings:
   - "config" folder
   - "xaero" folder
   - Any "XaeroWaypoints_BACKUP#####" folders
-- Click and drag any resource packs, shader packs, screenshots, etc from old instance "resourcepacks"/"shaderpacks" folders to the new instance versions of those folders
+- Click and drag any resource packs, shader packs, screenshots, etc from old instance folders to the new instance versions of those folders
 - - **DO NOT REPLACE THESE FOLDERS!!**
