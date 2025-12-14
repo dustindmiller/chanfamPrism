@@ -1,4 +1,5 @@
 **ChanFam SMP Prism Instance**
+
 *Minecraft version 1.21.10*
 
 How to Add Instance:
