@@ -1,11 +1,11 @@
 
-![Uploading 2025-12-14_16.01.37.png…]()
+!()
 
-**ChanFam SMP Prism Instance**
+## ChanFam SMP Prism Instance
 
 How to Add Instance:
 - Download desired "ChanFam SMP ##.##.##.zip" from this repository *(##.##.## indicated version number)*
-- Install & open Prism [https://prismlauncher.org/]
+- Install & open [Prism](https://prismlauncher.org/)
 - Select "Add Instance"
 - Click to "Import" tab
 - Click "Browse" button
