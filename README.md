@@ -1,0 +1,26 @@
+**ChanFam SMP Prism Instance**
+*Minecraft version 1.21.10*
+
+How to Add Instance:
+- Download "ChanFam SMP 1.21.10.zip" from this repository
+- Install & open Prism [https://prismlauncher.org/]
+- Select "Add Instance"
+- Click to "Import" tab
+- Clock "Browse"
+- Navigate to Instance ZIP file
+- Click "Open"
+- Click "OK"
+
+How to Transfer Settings:
+- Click newly created instance
+- Click "Edit" on left
+- Click "Version"
+- Click "Open .minecraft"
+- Open seperate window with previous instance of Minecraft (Through Prism or previous launcher)
+- Click, drag & replace the following files and folder from your old instance folder to the newly created:
+- - "options.txt" file
+  - "config" folder
+  - "xaero" folder
+  - Any "XaeroWaypoints_BACKUP#####" folders
+- Click and drag any resource packs, shader packs, screenshots, etc from old instance "resourcepacks"/"shaderpacks" folders to the new instance versions of those folders
+- - **DO NOT REPLACE THESE FOLDERS!!**
