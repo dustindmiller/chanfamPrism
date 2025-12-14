@@ -5,7 +5,7 @@ How to Add Instance:
 - Install & open Prism [https://prismlauncher.org/]
 - Select "Add Instance"
 - Click to "Import" tab
-- Clock "Browse"
+- Click "Browse" button
 - Navigate to Instance ZIP file
 - Click "Open"
 - Click "OK"
@@ -15,8 +15,8 @@ How to Transfer Settings:
 - Click "Edit" on left
 - Click "Version"
 - Click "Open .minecraft"
-- Open seperate window with .minecraft folder of your previous instance of Minecraft (Through Prism or previous launcher)
-- Click, drag & replace the following files and folder from your old instance folder to the newly created:
+- Open seperate window with ".minecraft" folder of your previous instance of Minecraft (Through Prism or previous launcher)
+- Click, drag & replace the following files and folders from your old instance folder to the newly created:
   - "options.txt" file
   - "config" folder
   - "xaero" folder
