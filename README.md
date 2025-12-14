@@ -1,9 +1,7 @@
 **ChanFam SMP Prism Instance**
 
-*Minecraft version 1.21.10*
-
 How to Add Instance:
-- Download "ChanFam SMP 1.21.10.zip" from this repository
+- Download desired "ChanFam SMP ##.##.##.zip" from this repository *(##.##.## indicated version number)*
 - Install & open Prism [https://prismlauncher.org/]
 - Select "Add Instance"
 - Click to "Import" tab
