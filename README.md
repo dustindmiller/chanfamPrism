@@ -1,5 +1,5 @@
 
-!()
+!(https://github.com/dustindmiller/chanfamPrism/blob/main/2025-12-14_16.01.37.png?raw=true)
 
 ## ChanFam SMP Prism Instance
 
